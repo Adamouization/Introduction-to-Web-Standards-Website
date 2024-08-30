@@ -2,7 +2,7 @@
 
 This is a guide aimed at introducing the reader to web standards and how they have affected the World Wide Web up until today. This website was developed using HTML, CSS and JavaScript only (no frameworks) for the IS5103 module as part of my MSc in Artificial Intelligence at the University of St Andrews.
 
-You can visit the website live here: [www.webstandards.jaamour.com](http://www.webstandards.jaamour.com/)
+You can visit the website live here: [webstandards.jaamour.com](https://webstandards.jaamour.com/)
 
 The report, including prior planning, aims of the website, target audience, tools used, design and content decisions, accessibility and testing & evaluation, can be read [here](https://github.com/Adamouization/Introduction-to-Web-Standards-Website/blob/master/report/report.pdf).
 
@@ -22,7 +22,7 @@ open index.html
 * see [LICENSE](https://github.com/Adamouization/Introduction-to-Web-Standards-Website/blob/master/LICENSE) file.
 
 ## Contact
-* Email: adam@jaamour.com
-* Website: www.adam.jaamour.com
+* Email: adam[at]jaamour[dot]com
+* Website: [www.adam.jaamour.com](https://adam.jaamour.com/)
 * LinkedIn: [linkedin.com/in/adamjaamour](https://www.linkedin.com/in/adamjaamour/)
 * Twitter: [@Adamouization](https://twitter.com/Adamouization)
